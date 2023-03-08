@@ -1,4 +1,4 @@
-require 'Digest'
+require 'digest'
 
 puts "Введите слово или фразу для шифрования:"
 user_input = STDIN.gets.chomp
